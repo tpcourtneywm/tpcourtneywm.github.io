@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: The title is above.
+title: Thomas Courtney's Data Analytics Website
+description: Website containing Thomas's files from Data Analytics projects
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
