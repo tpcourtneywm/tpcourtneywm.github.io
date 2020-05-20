@@ -9,5 +9,5 @@ This is content I've deveoped for my courses
 - [MatplotLib Graphing Assignment](/MatplotLib/index.md)
 
 
-This is a poor place to link a repository, but here is such a link
+Here are some assignments I did for my class titled: Competing in Business Analytics
 -[WM Documentation Repository](https://github.com/tpcourtneywm/williamandmarydocumentation)
