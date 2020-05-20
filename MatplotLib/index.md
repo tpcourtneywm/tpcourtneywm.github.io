@@ -1,6 +1,4 @@
 ---
----
----
 title: AdvancedMatplotLib
 description: MatplotLib assignment I did in CTBA
 ---
