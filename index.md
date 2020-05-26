@@ -5,7 +5,7 @@ description: Website containing Thomas's files from Data Analytics projects
 
 ![My Picture](pics/TCCC.jpg)
 
-![Resume](pics/TC_Resume (2).pdf)
+![Resume](pics/TC_Resumex.pdf)
 
 This is content I've deveoped for my courses
 - [MatplotLib Graphing Assignment](/MatplotLib/index.md)
