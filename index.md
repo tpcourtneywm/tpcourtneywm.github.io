@@ -5,11 +5,13 @@ description: Website containing Thomas's files from Data Analytics projects
 
 ![My Picture](pics/TCCC.jpg)
 
+![Resume](pics/TC_Resume (2))
+
 This is content I've deveoped for my courses
 - [MatplotLib Graphing Assignment](/MatplotLib/index.md)
 
 This is my resume
-- [Resume](TC_Resume (2))
+
 
 
 Here are some assignments I did for my class titled: Competing in Business Analytics
