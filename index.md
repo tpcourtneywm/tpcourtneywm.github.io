@@ -9,7 +9,7 @@ This is content I've deveoped for my courses
 - [MatplotLib Graphing Assignment](/MatplotLib/index.md)
 
 This is my resume
-- [Resume](TC_Resume (2)/index.md)
+- [Resume](TC_Resume (2))
 
 
 Here are some assignments I did for my class titled: Competing in Business Analytics
