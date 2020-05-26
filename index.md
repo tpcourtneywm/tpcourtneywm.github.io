@@ -8,6 +8,9 @@ description: Website containing Thomas's files from Data Analytics projects
 This is content I've deveoped for my courses
 - [MatplotLib Graphing Assignment](/MatplotLib/index.md)
 
+This is my resume
+- [Resume](/Resume/index.md)
+
 
 Here are some assignments I did for my class titled: Competing in Business Analytics
 -[WM Documentation Repository](https://github.com/tpcourtneywm/williamandmarydocumentation)
